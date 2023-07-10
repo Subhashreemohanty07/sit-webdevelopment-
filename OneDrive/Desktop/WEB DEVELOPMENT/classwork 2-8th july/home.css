@@ -1,0 +1,46 @@
+nav{
+    background-color:chartreuse;
+    font-size: 25px;
+    color:crimson;
+    height: 50px;
+    text-align: end;
+    margin-top: 10px;
+    text-decoration:none ;
+}
+a{
+    margin-right: 30px;
+    margin-top: 20px;
+    text-decoration:none;
+}
+a:hover{
+    color:crimson;
+    text-decoration: underline solid rgb(27, 2, 7);
+    cursor:wait;
+}
+div{
+    width: 50%;
+    margin: auto;
+}
+fieldset{
+    border-color: black;
+    text-align: center;
+    border-style: solid;
+    
+}
+img{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    /* height: 300px; */
+}
+table{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+i{
+    margin-left: 5px;
+  }
+
+
